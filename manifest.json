@@ -1,0 +1,9 @@
+{
+  "name": "claude-code-metadata",
+  "description": "Claude Code metadata repository",
+  "version": "1.0.0",
+  "items": {
+    "commands": [],
+    "agents": []
+  }
+}
